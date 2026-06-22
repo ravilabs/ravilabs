@@ -8,7 +8,7 @@
 
 [![TFPM](https://img.shields.io/badge/🌐-tfpm.space-F59E0B?style=for-the-badge)](https://tfpm.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravibheesetty/)
-[![YouTube](https://img.shields.io/badge/YouTube-TFPM-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ravibheesetty/)
+[![YouTube](https://img.shields.io/badge/YouTube-Check-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ravibheesetty/)
 
 *Let's Build What Matters*
 
