@@ -2,16 +2,15 @@
 
 <img src="https://YOUR-PHOTO-URL.jpg" width="110" style="border-radius:50%" alt="Ravi"/>
 
-# Ravi · CPO | VP Product | AI Product Systems
+# Ravi Bheesetty · CPO | VP Product | AI Product Systems
 
 **18+ years at IBM · Microsoft · Mercedes-Benz R&D**
 
 [![TFPM](https://img.shields.io/badge/🌐-tfpm.space-F59E0B?style=for-the-badge)](https://tfpm.space)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![YouTube](https://img.shields.io/badge/YouTube-TFPM-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)
-[![Book a Call](https://img.shields.io/badge/Topmate-Book_a_Call-8B5CF6?style=for-the-badge)](https://topmate.io/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravibheesetty/)
+[![YouTube](https://img.shields.io/badge/YouTube-TFPM-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ravibheesetty/)
 
-*Author of The Product PlayBook · Creator of the AI Metrics Triangle & AI Product Failure Triangle*
+*Let's Build What Matters*
 
 </div>
 
