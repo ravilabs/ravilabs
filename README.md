@@ -27,11 +27,11 @@ about product problems and how fast I can validate them.
 
 | Tool | What It Solves | Demo |
 |---|---|---|
-| 🔴 [AI Product Failure Detector](https://github.com/ravinova/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written | [▶ Try It](https://ravinova.github.io/ai-failure-detector) |
-| 📊 [AI Metrics Triage Advisor](https://github.com/ravinova/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle | [▶ Try It](https://ravinova.github.io/ai-metrics-triage) |
-| 📝 [PRD Health Checker](https://github.com/ravinova/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions | [▶ Try It](https://ravinova.github.io/prd-health-checker) |
-| 🎯 [OKR Quality Scorer](https://github.com/ravinova/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance | [▶ Try It](https://ravinova.github.io/okr-scorer) |
-| 🔍 [Discovery Synthesizer](https://github.com/ravinova/discovery-synthesizer) | Turns raw interview transcripts into structured JTBD + pain points + opportunity hypotheses | [▶ Try It](https://ravinova.github.io/discovery-synthesizer) |
+| 🔴 [AI Product Failure Detector](https://github.com/ravilabs/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written | [▶ Try It](https://ravilabs.github.io/ai-failure-detector) |
+| 📊 [AI Metrics Triage Advisor](https://github.com/ravilabs/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle | [▶ Try It](https://ravilabs.github.io/ai-metrics-triage) |
+| 📝 [PRD Health Checker](https://github.com/ravilabs/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions | [▶ Try It](https://ravilabs.github.io/prd-health-checker) |
+| 🎯 [OKR Quality Scorer](https://github.com/ravilabs/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance | [▶ Try It](https://ravilabs.github.io/okr-scorer) |
+| 🔍 [Discovery Synthesizer](https://github.com/ravilabs/discovery-synthesizer) | Turns raw interview transcripts into structured JTBD + pain points + opportunity hypotheses | [▶ Try It](https://ravilabs.github.io/discovery-synthesizer) |
 
 > **System logic:** Diagnose → Measure → Spec → Score → Synthesize.  
 > Each tool's output feeds the next.
