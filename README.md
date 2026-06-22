@@ -1,10 +1,8 @@
-<div align="center">
+<div align="center"><img width="3168" height="792" alt="LinkedIn Banner V3 0" src="https://github.com/user-attachments/assets/10a38c36-937b-4149-8848-2bf631793b65" />
 
-<img src="https://YOUR-PHOTO-URL.jpg" width="110" style="border-radius:50%" alt="Ravi"/>
+# Ravi Bheesetty · Building Product Success Systems
 
-# Ravi Bheesetty · CPO | VP Product | AI Product Systems
-
-**18+ years at IBM · Microsoft · Mercedes-Benz R&D**
+**18+ years at Mercedes-Benz R&D · IBM · Microsoft · IBM · Metlife GCC · Omind**
 
 [![TFPM](https://img.shields.io/badge/🌐-tfpm.space-F59E0B?style=for-the-badge)](https://tfpm.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravibheesetty/)
