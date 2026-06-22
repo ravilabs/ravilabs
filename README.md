@@ -74,8 +74,8 @@ Now targeting **CPO · VP Product · Head of Product** in B2B SaaS · Enterprise
 <div align="center">
 
 *Open to: CPO · VP Product · Head of Product*  
-*Sectors: B2B SaaS · Enterprise Tech · Fintech · AI*
+*Sectors: B2B SaaS · Enterprise Tech · AI*
 
-**[tfpm.space](https://tfpm.space) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [The Product PlayBook](#) · [Book a Call](https://topmate.io/YOUR-HANDLE)**
+##*Let's Build What Matters*
 
 </div>
