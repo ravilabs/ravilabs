@@ -76,6 +76,6 @@ Now targeting **CPO · VP Product · Head of Product** in B2B SaaS · Enterprise
 *Open to: CPO · VP Product · Head of Product*  
 *Sectors: B2B SaaS · Enterprise Tech · AI*
 
-##*Let's Build What Matters*
+# *Let's Build What Matters*
 
 </div>
