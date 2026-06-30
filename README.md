@@ -20,22 +20,24 @@ This is an AI Product Operations system: a set of frameworks and tools that diag
  
 | Tool | What It Solves | Demo |
 |---|---|---|
-| 🔴 [AI Product Failure Detector](https://github.com/ravilabs/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written | [▶ Try It](https://ravilabs.github.io/ai-failure-detector) |
-| 📊 [AI Metrics Triage Advisor](https://github.com/ravilabs/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle | [▶ Try It](https://ravilabs.github.io/ai-metrics-triage) |
-| 📝 [PRD Health Checker](https://github.com/ravilabs/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions | [▶ Try It](https://ravilabs.github.io/prd-health-checker) |
-| 🎯 [OKR Quality Scorer](https://github.com/ravilabs/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance | [▶ Try It](https://ravilabs.github.io/okr-scorer) |
-| 🔍 [Discovery Synthesizer](https://github.com/ravilabs/discovery-synthesizer) | Turns raw interview transcripts into structured JTBD + pain points + opportunity hypotheses | [▶ Try It](https://ravilabs.github.io/discovery-synthesizer) |
-| ➕ More tools | In development | [follow me for all updates](https://github.com/ravilabs) |
+| 🔴 [AI Product Failure Detector](https://github.com/ravilabs/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written | 🔜 |
+| 📊 [AI Metrics Triage Advisor](https://github.com/ravilabs/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle | 🔜 |
+| 📝 [PRD Health Checker](https://github.com/ravilabs/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions | 🔜 |
+| 🎯 [OKR Quality Scorer](https://github.com/ravilabs/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance | 🔜 |
+| 🔍 [Discovery Synthesizer](https://github.com/ravilabs/discovery-synthesizer) | Turns raw interview transcripts into structured JTBD + pain points + opportunity hypotheses | 🔜 |
  
-> **System logic:** Diagnose → Measure → Spec → Score → Synthesize.  
+> **System Focusing on:** Diagnose → Measure → Spec → Score → Synthesize.
+
+➕ More in development [follow me for all updates](https://github.com/ravilabs)
  
 ---
  
 ## 🌐 Open-Source/Community Contributions
-My contribution to open-source projects from my enterprises engagement with AI responsibly approach — including governance, documentation, and readiness standards for regulated industries.
+My contribution to open-source projects from my enterprise engagement with an AI-responsible approach — including governance, documentation, and readiness standards for regulated industries.
  | Projects | TBD | TBD |
 |---|---|---|
-| ➕ More tools | In development | [follow me for all updates](https://github.com/ravilabs) |
+
+>➕ More in development [follow me for all updates](https://github.com/ravilabs)
  
 ---
  
@@ -45,7 +47,8 @@ Free to fork, absolutely open-source. Maintained in public.
  | Projects | TBD | TBD |
  |---|---|---|
 **TaxCore Design System** is an open source design system for tax and compliance software developers. MIT licensed.
-➕ More in development | follow me for all updates |
+
+>➕ More in development [follow me for all updates](https://github.com/ravilabs)
  
 ---
  
@@ -55,7 +58,7 @@ This is where I test how fast I can ship with modern AI tools, without writing p
 |---|---|---| 
 |🔭 Career Anchor Assessment(live and in active refinement) | Brief details | [▶ Try It](https://tfpm-talent-compass.lovable.app) |
  
-➕ More in development | follow me for all updates |
+>➕ More in development [follow me for all updates](https://github.com/ravilabs)
  
 ---
 
@@ -68,6 +71,8 @@ The Failure Detector above encodes this as a live diagnostic. → *[Full framewo
 **[AI Metrics Triangle](https://tfpm.space/metrics-triangle)**  
 A three-layer structure for choosing metrics that signal genuine health in AI systems — not vanity.  
 The foundation of the Metrics Triage Advisor. → *[Full framework at TFPM](https://tfpm.space)*
+
+>➕ More to publish [follow me for all updates](https://github.com/ravilabs)
 
 ---
 ## Let's Connect
