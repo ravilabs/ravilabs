@@ -14,14 +14,10 @@
 
 ---
 
-## What I Build Here
+## 🧠 Frameworks that Works
 
-I turn 18 years of product frameworks into working AI-powered tools.  
-Not to prove I can code — to eliminate the gap between how I think  
-about product problems and how fast I can validate them.
-
-**The TFPM AI PM Toolkit** — 5 tools, 1 system, the complete AI product development lifecycle:
-
+This is an AI Product Operations system: a set of frameworks and tools that diagnose, measure, and validate AI products across the full development lifecycle. Each encodes frameworks I developed as product leadership. 
+ 
 | Tool | What It Solves | Demo |
 |---|---|---|
 | 🔴 [AI Product Failure Detector](https://github.com/ravilabs/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written | [▶ Try It](https://ravilabs.github.io/ai-failure-detector) |
@@ -29,10 +25,38 @@ about product problems and how fast I can validate them.
 | 📝 [PRD Health Checker](https://github.com/ravilabs/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions | [▶ Try It](https://ravilabs.github.io/prd-health-checker) |
 | 🎯 [OKR Quality Scorer](https://github.com/ravilabs/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance | [▶ Try It](https://ravilabs.github.io/okr-scorer) |
 | 🔍 [Discovery Synthesizer](https://github.com/ravilabs/discovery-synthesizer) | Turns raw interview transcripts into structured JTBD + pain points + opportunity hypotheses | [▶ Try It](https://ravilabs.github.io/discovery-synthesizer) |
-
+| ➕ More tools | In development | [follow me for all updates](https://github.com/ravilabs) |
+ 
 > **System logic:** Diagnose → Measure → Spec → Score → Synthesize.  
-> Each tool's output feeds the next.
-
+ 
+---
+ 
+## 🌐 Open-Source/Community Contributions
+My contribution to open-source projects from my enterprises engagement with AI responsibly approach — including governance, documentation, and readiness standards for regulated industries.
+ | Projects | TBD | TBD |
+|---|---|---|
+| ➕ More tools | In development | [follow me for all updates](https://github.com/ravilabs) |
+ 
+---
+ 
+## 🛠 Community Utilities
+Free to fork, absolutely open-source. Maintained in public.
+# 🧬 Design system
+ | Projects | TBD | TBD |
+ |---|---|---|
+**TaxCore Design System** is an open source design system for tax and compliance software developers. MIT licensed.
+➕ More in development | follow me for all updates |
+ 
+---
+ 
+## ⚡ Builds & Experiments
+This is where I test how fast I can ship with modern AI tools, without writing production code by hand. I'm optimizing for speed and product judgment.
+| Projects | Blurp | Try |
+|---|---|---| 
+|🔭 Career Anchor Assessment(live and in active refinement) | Brief details | [▶ Try It](https://tfpm-talent-compass.lovable.app) |
+ 
+➕ More in development | follow me for all updates |
+ 
 ---
 
 ## My Frameworks
@@ -46,23 +70,9 @@ A three-layer structure for choosing metrics that signal genuine health in AI sy
 The foundation of the Metrics Triage Advisor. → *[Full framework at TFPM](https://tfpm.space)*
 
 ---
+## Let's Connect
 
-## 18 Years of Pattern Recognition
 
-| | What I Learned |
-|---|---|
-| 🔵 **IBM** | Enterprise B2B complexity · reliability at scale · long procurement cycles |
-| 🔷 **Microsoft** | Developer-facing products · ecosystem thinking · precision at platform scale |
-| ⚙️ **Mercedes-Benz R&D** | Safety-critical product judgment · hardware-software integration |
-
-18 years of recognising patterns across enterprise, platform, and hardware-software products.  
-Now targeting **CPO · VP Product · Head of Product** in B2B SaaS · Enterprise Tech · Fintech · AI.
-
----
-
-## Writing & Thought Leadership
-
-📖 **The Product PlayBook** — Frameworks for product leaders building AI-native products  
 📺 **[TFPM on YouTube](https://youtube.com/@YOUR-CHANNEL)** — Product leadership for the AI era  
 ✉️ **[TFPM Newsletter](https://tfpm.space)** — Weekly frameworks for senior PMs and product leaders  
 💼 **[Advisory & Consulting](https://topmate.io/YOUR-HANDLE)** — Available for product leadership engagements  
@@ -72,7 +82,7 @@ Now targeting **CPO · VP Product · Head of Product** in B2B SaaS · Enterprise
 <div align="center">
 
 *Open to: CPO · VP Product · Head of Product*  
-*Sectors: B2B SaaS · Enterprise Tech · AI*
+*B2B SaaS · Enterprise Tech · AI*
 
 # *Let's Build What Matters*
 
