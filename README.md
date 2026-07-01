@@ -34,8 +34,8 @@ This is an AI Product Operations system: a set of frameworks and tools that diag
  
 ## 🌐 Open-Source/Community Contributions
 My contribution to open-source projects from my enterprise engagement with an AI-responsible approach — including governance, documentation, and readiness standards for regulated industries.
- | Projects | TBD | TBD |
-|---|---|---|
+| Projects | About |
+|---|---|
 
 >➕ More in development [follow me for all updates](https://github.com/ravilabs)
  
