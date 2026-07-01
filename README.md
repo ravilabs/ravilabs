@@ -44,9 +44,9 @@ My contribution to open-source projects from my enterprise engagement with an AI
 ## 🛠 Community Utilities
 Free to fork, absolutely open-source. Maintained in public.
 # 🧬 Design system
- | Projects | TBD | TBD |
- |---|---|---|
-**TaxCore Design System** is an open source design system for tax and compliance software developers. MIT licensed.
+ | Projects | About |
+ |---|---|
+**[TaxAid Design System](https://github.com/ravilabs/taxaid-design-system)** | an open source design system for tax and compliance software developers. |
 
 >➕ More in development [follow me for all updates](https://github.com/ravilabs)
  
