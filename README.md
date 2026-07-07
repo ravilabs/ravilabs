@@ -56,7 +56,7 @@ Free to fork, absolutely open-source. Maintained in public.
 This is where I test how fast I can ship with modern AI tools, without writing production code by hand. I'm optimizing for speed and product judgment.
 | Projects | Blurp | Try |
 |---|---|---| 
-|🔭 Career Anchor Assessment(live and in active refinement) | Brief details | [▶ Try It](<a href="[https://example.com](https://tfpm-talent-compass.lovable.app)" target="_blank">Example</a>) |
+|🔭 Career Anchor Assessment(live and in active refinement) | Brief details | [▶ Try It](<a href="https://tfpm-talent-compass.lovable.app" target="_blank">Example</a>) |
  
 >➕ More in development [follow me for all updates](https://github.com/ravilabs)
  
