@@ -18,13 +18,13 @@
 
 This is an AI Product Operations system: a set of frameworks and tools that diagnose, measure, and validate AI products across the full development lifecycle. Each encodes frameworks I developed as product leadership. 
  
-| Tool | What It Solves | Demo |
-|---|---|---|
-| 🔴 [AI Product Failure Detector](https://github.com/ravilabs/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written | 🔜 |
-| 📊 [AI Metrics Triage Advisor](https://github.com/ravilabs/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle | 🔜 |
-| 📝 [PRD Health Checker](https://github.com/ravilabs/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions | 🔜 |
-| 🎯 [OKR Quality Scorer](https://github.com/ravilabs/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance | 🔜 |
-| 🔍 [Discovery Synthesizer](https://github.com/ravilabs/discovery-synthesizer) | Turns raw interview transcripts into structured JTBD + pain points + opportunity hypotheses | 🔜 |
+| Tool | What It Solves |
+|---|---|
+| 🔴 [AI Product Failure Detector](https://github.com/ravilabs/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written |
+| 📊 [AI Metrics Triage Advisor](https://github.com/ravilabs/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle |
+| 📝 [PRD Health Checker](https://github.com/ravilabs/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions |
+| 🎯 [OKR Quality Scorer](https://github.com/ravilabs/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance |
+| 🔍 [Discovery Synthesizer](https://github.com/ravilabs/discovery-synthesizer) | Turns raw interview transcripts into structured JTBD + pain points + opportunity hypotheses | 
  
 > **System Focusing on:** Diagnose → Measure → Spec → Score → Synthesize.
 
