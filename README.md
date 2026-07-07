@@ -18,7 +18,7 @@
 
 This is an AI Product Operations system: a set of frameworks and tools that diagnose, measure, and validate AI products across the full development lifecycle. Each encodes frameworks I developed as product leadership. 
  
-| Tool | What It Solves |
+| Tool | Details |
 |---|---|
 | 🔴 [AI Product Failure Detector](https://github.com/ravilabs/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written |
 | 📊 [AI Metrics Triage Advisor](https://github.com/ravilabs/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle |
