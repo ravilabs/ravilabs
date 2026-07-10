@@ -24,7 +24,7 @@ This is an AI Product Operations system: a set of frameworks and tools that diag
 | 📊 [AI Metrics Triage Advisor](https://github.com/ravilabs/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle |
 | 📝 [PRD Health Checker](https://github.com/ravilabs/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions |
 | 🎯 [OKR Quality Scorer](https://github.com/ravilabs/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance |
-| 🔍 [Discovery Synthesizer](https://github.com/ravilabs/discovery-synthesizer) | Turns raw interview transcripts into structured JTBD + pain points + opportunity hypotheses | 
+| 🔍 [Product Discovery Engine](https://github.com/ravilabs/discovery-engine) | Turns User Interaction/ interview/ Community insight into structured JTBD + pain points + opportunity hypotheses | 
  
 > **System Focusing on:** Diagnose → Measure → Spec → Score → Synthesize.
 
