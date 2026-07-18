@@ -21,7 +21,7 @@ This is an AI Product Operations system: a set of frameworks and tools that diag
 | Tool | Details |
 |---|---|
 | 🔴 [AI Product Failure Detector](https://github.com/ravilabs/ai-failure-detector) | Stress-tests any AI feature brief through 3 failure modes before a line of code is written |
-| 📊 [AI Metrics Triage Advisor](https://github.com/ravilabs/ai-metrics-triage) | Diagnoses metric confusion in AI products using the AI Metrics Triangle |
+| 📊 [AI Product Pulse](https://github.com/ravilabs/ai-product-pulse) | Diagnoses metric confusion in AI products using the AI Metrics Triangle |
 | 📝 [PRD Health Checker](https://github.com/ravilabs/prd-health-checker) | Validates your spec for measurability gaps, missing edges, and hidden assumptions |
 | 🎯 [OKR Quality Scorer](https://github.com/ravilabs/okr-scorer) | Scores OKRs for measurability, gaming risk, and leading vs. lagging balance |
 | 🔍 [Product Discovery Engine](https://github.com/ravilabs/discovery-engine) | Turns User Interaction/ interview/ Community insight into structured JTBD + pain points + opportunity hypotheses | 
